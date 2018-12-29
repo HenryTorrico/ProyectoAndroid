@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fruck Mapp</string>
+    <string name="restaurantes_disponibles">Available Restaurants</string>
+    <string name="textview1">Name</string>
+    <string name="textview2">Ubication</string>
+    <string name="textview3">Type</string>
+    <string name="texto">Verify Internet Permission</string>
+</resources>
